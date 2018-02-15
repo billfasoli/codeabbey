@@ -3,7 +3,7 @@
 Created on Sat Feb 10 21:50:20 2018
 @author: bii
 """
-#test
+
 #Take the inital input size of the array
 array_size = int(input("Please input array size: "))
 

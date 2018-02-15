@@ -4,7 +4,7 @@ Code by Bill Fasoli
 
 This is a temporary script file.
 """
-# test
+
 a , b = map(int, input("Please input a number: ").split())
 print ("The sum of your two numbers is: ", a + b)
 
