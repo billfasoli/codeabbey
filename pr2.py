@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Sat Feb 10 21:50:20 2018
-@author: bii
+@author: bill
 """
 
 #Take the inital input size of the array
