@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created: 2/14/18
-Author: bii
+Author: bill
 """
 
 #Takes size of the array as input
