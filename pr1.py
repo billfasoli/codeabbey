@@ -1,5 +1,5 @@
 """
-Code by Bill Fasoli
+Code by bill
 2/10/2018
 
 This is a temporary script file.
